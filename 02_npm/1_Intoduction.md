@@ -31,9 +31,9 @@ This is the heart of your "Local Repo."
 When you install a package, NPM creates this folder.
 It contains the actual source code of every library you downloaded.
 
-- **Warning:**
-  This folder can get massive.
-  Never commit it to Git; only commit your `package.json`.
+> [!WARNING]
+> This folder can get massive.
+> Never commit it to Git; only commit your `package.json`.
 
 ### C. `package-lock.json`
 
