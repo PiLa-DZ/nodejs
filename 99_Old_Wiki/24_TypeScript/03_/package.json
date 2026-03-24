@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "name": "03_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.10",
+    "express": "^5.1.0",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,13 @@
+1 --> "You don't need to know everything"
+2 --> "Learn how to learn"
+3 --> "Perfection is a Trap"
+4 --> "You'll Never feel Ready"
+5 --> "Problem Solving is the real skill"
+6 --> "Nobody Cares about your code"
+7 --> "Burnout is Real"
+
+1 --> "Learn by doing"
+2 --> "Learn to program, not a programming language"
+3 --> "Create a roadmap"
+4 --> "Prioritize understanding"
+5 --> "Get used to failing"

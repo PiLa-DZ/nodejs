@@ -1,0 +1,1 @@
+This text for test from file.txt 😀

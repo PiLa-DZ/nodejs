@@ -1,0 +1,5 @@
+export default () => console.log('This is default function')
+export const fun1 = () => console.log(`This is Function 1`)
+export const fun2 = () => console.log(`This is Function 2`)
+export const fun3 = () => console.log(`This is Function 3`)
+export const fun4 = () => console.log(`This is Function 4`)
